@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnlyEther
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning how to work GitHub
-- 💞️ I’m looking to collaborate on gitbit
+- 💞️ I’m looking to collaborate on gitcoin
 - 📫 How to reach me try my email 😉
 
 <!---
